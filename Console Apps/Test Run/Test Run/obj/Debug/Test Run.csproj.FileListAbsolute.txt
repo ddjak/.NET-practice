@@ -1,0 +1,7 @@
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\bin\Debug\Test Run.exe.config
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\bin\Debug\Test Run.exe
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\bin\Debug\Test Run.pdb
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\obj\Debug\Test Run.csprojResolveAssemblyReference.cache
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\obj\Debug\Test Run.csproj.CoreCompileInputs.cache
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\obj\Debug\Test Run.exe
+C:\Users\Minerva\Dropbox\Programming Journey\.NET-practice\Console Apps\Test Run\Test Run\obj\Debug\Test Run.pdb
