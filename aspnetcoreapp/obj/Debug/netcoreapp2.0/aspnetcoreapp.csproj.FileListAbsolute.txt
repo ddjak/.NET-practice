@@ -1,0 +1,22 @@
+C:\Users\ddjakovic\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.deps.json
+C:\Users\ddjakovic\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\ddjakovic\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\ddjakovic\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\ddjakovic\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+C:\Users\ddjakovic\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csprojAssemblyReference.cache
+C:\Users\ddjakovic\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\ddjakovic\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\ddjakovic\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\ddjakovic\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\ddjakovic\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.deps.json
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csprojAssemblyReference.cache
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.pdb
