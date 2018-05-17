@@ -1,0 +1,7 @@
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\bin\Debug\SoloExamples.exe.config
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\bin\Debug\SoloExamples.exe
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\bin\Debug\SoloExamples.pdb
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\obj\Debug\SoloExamples.csprojAssemblyReference.cache
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\obj\Debug\SoloExamples.csproj.CoreCompileInputs.cache
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\obj\Debug\SoloExamples.exe
+C:\Users\ddjakovic\Dropbox\Programming Journey\.NET-practice\Console Apps\SoloExamples\SoloExamples\obj\Debug\SoloExamples.pdb
