@@ -20,6 +20,11 @@ namespace SoloExamples
         {
             public int Legs { get; set; }
             public int Age { get; set; }
+
+            public virtual void Call()
+            {
+                Console.WriteLine("This is a call: ");
+            }
         }
         class Dog : Animal
         {
@@ -30,10 +35,12 @@ namespace SoloExamples
 
             public int speed { get; set; }
 
-            public void Bark()
+            public override void Call()
             {
-                Console.WriteLine("Woof");
+                Console.WriteLine("BARK");
             }
+
+            
         }
         class Poodle : Dog
         {
@@ -42,22 +49,38 @@ namespace SoloExamples
                 speed = 5;
             }
         }
+        struct Book
+        {
+            public string title;
+            public double price;
+            public string author;
+        }
 
         static void Main(string[] args)
         {
+
             Temp t = new Temp();
             Console.WriteLine(t.num);
             Console.ReadLine();
 
-            Dog d = new Dog();
+            Animal d = new Dog();
             Console.WriteLine(d.Legs);
             // Outputs 4
 
-            d.Bark();
+            d.Call();
+            //d.Bark();
             //Outputs "Woof"
 
             Poodle fluffy = new Poodle();
             Console.WriteLine(fluffy.speed);
+
+            Console.WriteLine("--------------------------");
+
+            Book b;
+            b.title = "Book Title";
+
+            Console.WriteLine(b.title);
+
             Console.ReadLine();
         }
     }

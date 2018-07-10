@@ -18,10 +18,26 @@ namespace Generics
         {
             int a = 4, b = 5;
             Swap<int>(ref a, ref b);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
 
 
+            var list = new List<int>    
+            {
+                1, 2, 3, 4, 5
+            };
+            /*
+            foreach(var number in list)
+            {
+                Console.WriteLine(number);
+            }
+            */
+            list.Add(6);
+
+            Console.WriteLine("Print: " + list[5].ToString());
+
+            //Console.WriteLine(list);
+            /*
             List<string> L = new List<string>();
             L.Add("1st");
 
@@ -55,6 +71,32 @@ namespace Generics
             foreach (string i in stack)
             {
                 Console.WriteLine(i);
+            }*/
+
+            var stack = new Stack<int>();
+
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Pop();
+
+            var q = new Queue<int>();
+
+            q.Enqueue(1);
+            q.Enqueue(2);
+            q.Enqueue(3);
+            q.Dequeue();
+
+            Console.WriteLine("QUEUE: ");
+            foreach (var number in q)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine("STACK: ");
+            foreach (var number in stack)
+            {
+                Console.WriteLine(number);
             }
             Console.ReadLine();
         }
